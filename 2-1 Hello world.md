@@ -5,13 +5,13 @@
 
 &lt;body&gt;
 
-	&lt;p&gt;스크립트 전&lt;/p&gt;
+	<p>스크립트 전</p>
 
-	&lt;script&gt;
-		alert( &#x27;Hello,world!&#x27; );
-	&lt;/script&gt;
+	<script>
+		alert( 'Hello,world!');
+	</script>
 
-	&lt;p&gt;스크립트 후&lt;/p&gt;
+	<p>스크립트 후</p>
 
 &lt;/body&gt;
 
