@@ -15,6 +15,6 @@ window.onload = function() { // 문서 로딩이 완료되면 이 함수를 실�
                 image.attachEvent("onclick",hide);
          }
 
-         //<img>태그에 등록할 이벤트 핸들러 함수
+         //<img>태그에 등록할 이벤트 핸들러 함수이다
          function hide(event) {event.target.style.visibility = "hidden";}
 }
