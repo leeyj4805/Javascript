@@ -46,3 +46,10 @@ console.log(10 <= 6); // less than or equal
 console.log(10 > 6); // greater than
 console.log(10 >= 6); // greater than or equal
 
+// 6. Logical operators: || (or), && (and), !(not)
+const value1 = false;
+const value2 = 4 < 2;
+
+// || (or), finds the first thuthy value
+
+
